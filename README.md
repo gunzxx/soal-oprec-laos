@@ -3,7 +3,7 @@
 
 ## Sitem login sederhana
 diberikan sebuah variabel
-datas = [aldi,aldo,aldous]
+datas = ["aldi","aldo","aldous"]
 
 Input:
 string yang diterima dari user
